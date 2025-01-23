@@ -1,8 +1,11 @@
 
 # Telecom Churn Prediction
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) &nbsp;
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhishekSinghDhadwal/TelecomChurnPredictor/blob/main/Churn_Prediction_model.ipynb) &nbsp;
+
 ## Overview
-This project aims to predict customer churn for a telecom company by analyzing customer behavior over a four-month period. The goal is to identify high-value customers who are at risk of churning and recommend actionable strategies to improve customer retention.
+This project aims to predict customer churn for a telecom company by analyzing customer behavior over a four-month period. The goal is to identify high-value customers who are at risk of churning and recommend actionable strategies to improve customer retention. The project was initially made as part of a graduate data science course.
 
 ---
 
@@ -20,7 +23,7 @@ In the highly competitive telecom industry, customer churn poses significant cha
 ---
 
 ## Dataset
-The dataset contains customer-level information over four months:
+The dataset contains customer-level information over four months, and is stored in the dataset folder of the repository:
 - **Columns**: 226 features, including usage patterns, recharge amounts, and customer demographics.
 - **Rows**: ~100,000 customer records.
 
